@@ -1,0 +1,1 @@
+from QEfficient import QEFFAutoModelForCausalLM
